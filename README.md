@@ -4,4 +4,4 @@ Clock-Countdown
 Clock Countdown
 
 
-![alt tag](http://imgur.com/DO4qAos)
+![alt tag](http://i.imgur.com/DO4qAos.png?1)
