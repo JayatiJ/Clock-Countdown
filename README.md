@@ -4,4 +4,4 @@ Clock-Countdown
 Clock Countdown
 
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://en.wikipedia.org/wiki/File:PNG_transparency_demonstration_1.png)
